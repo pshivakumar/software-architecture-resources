@@ -1,0 +1,1 @@
+1. **[Role of a Architect](https://www.ibm.com/garage/method/practices/code/role-of-an-architect)**: Setting boundaries
