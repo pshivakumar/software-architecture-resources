@@ -1,1 +1,2 @@
 1. [C4 model](https://www.ibm.com/garage/method/practices/code/c4-model-for-software-architecture/): C4 model for software architecture documentation
+2. [Software Architecture Guide](https://martinfowler.com/architecture/): by Martin Fowler
