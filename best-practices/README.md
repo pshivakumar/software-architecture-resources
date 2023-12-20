@@ -1,1 +1,2 @@
 1. **[Role of a Architect](https://www.ibm.com/garage/method/practices/code/role-of-an-architect)**: Setting boundaries
+2. **[Software Testing Guide](https://martinfowler.com/testing/)**: A guide to material on martinfowler.com about testing software systems.
