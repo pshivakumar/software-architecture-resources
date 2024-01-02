@@ -1,2 +1,3 @@
 1. **[Role of a Architect](https://www.ibm.com/garage/method/practices/code/role-of-an-architect)**: Setting boundaries
 2. **[Software Testing Guide](https://martinfowler.com/testing/)**: A guide to material on martinfowler.com about testing software systems.
+3. **[The Twelve-Factor app](https://12factor.net)**: A set of best practices for building modern, scalable, and maintainable software-as-a-service (SaaS) applications. It's essential reading for architects and developers.
