@@ -1,4 +1,5 @@
 1. **[Role of a Architect](https://www.ibm.com/garage/method/practices/code/role-of-an-architect)**: Setting boundaries
 2. **[Software Testing Guide](https://martinfowler.com/testing/)**: A guide to material on martinfowler.com about testing software systems.
 3. **[The Twelve-Factor app](https://12factor.net)**: A set of best practices for building modern, scalable, and maintainable software-as-a-service (SaaS) applications. It's essential reading for architects and developers.
-4. **[Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)**: Its Thoughtworks knowledge-sharing tool based on their global teams’ experience and highlights things you may want to explore on your projects. 
+4. **[Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)**: Its Thoughtworks knowledge-sharing tool based on their global teams’ experience and highlights things you may want to explore on your projects.
+5. **[Elevate Your DDD Skills: Visit Vaughn Vernon's Expert Site](https://vaughnvernon.com/)**: Discover practical insights, expert resources, and real-world case studies that help you master DDD and apply its principles effectively in your projects
